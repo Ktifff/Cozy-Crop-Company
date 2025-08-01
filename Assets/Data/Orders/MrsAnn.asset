@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 550a65c944e7bf74fba7c19ae98f39b0, type: 3}
+  m_Name: MrsAnn
+  m_EditorClassIdentifier: 
+  _name: Mrs. Ann
+  _orderRequest:
+  - _item: {fileID: 11400000, guid: be4c37d8311cae845abe4dbda227d405, type: 2}
+    _count: 5
+  _reward:
+    _item: {fileID: 11400000, guid: 4aa194fffa27cf143ad35caad42f05fe, type: 2}
+    _count: 1
